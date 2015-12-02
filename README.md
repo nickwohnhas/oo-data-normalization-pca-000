@@ -78,3 +78,5 @@ file.close
 * [Ruby Docs](http://www.ruby-doc.org/) - [TempFile](http://www.ruby-doc.org/stdlib-1.9.3/libdoc/tempfile/rdoc/Tempfile.html)
 
 * [Alvin Alexander's Blog](http://alvinalexander.com/) - [How to Write Text to a File in Ruby](http://alvinalexander.com/blog/post/ruby/how-write-text-to-file-ruby-example)
+
+<a href='https://learn.co/lessons/oo-data-normalization' data-visibility='hidden'>View this lesson on Learn.co</a>
