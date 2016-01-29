@@ -79,4 +79,4 @@ file.close
 
 * [Alvin Alexander's Blog](http://alvinalexander.com/) - [How to Write Text to a File in Ruby](http://alvinalexander.com/blog/post/ruby/how-write-text-to-file-ruby-example)
 
-<a href='https://learn.co/lessons/oo-data-normalization' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-data-normalization' title='OO Data Normalization Lab'>OO Data Normalization Lab</a> on Learn.co and start learning to code for free.</p>
